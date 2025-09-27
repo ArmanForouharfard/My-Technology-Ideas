@@ -1,4 +1,4 @@
-# 💡 My 129 Technology Ideas
+# 💡 My 129 Technology Ideas (In Progress)
 
 This repository is a collection of **129 original technology project ideas** I have developed over time, precisely since i was in highschool back in 2016-2017.
 They reflect my curiosity and passion for **Robotics, Artificial Intelligence, Web Development, and Modern Day Technologies**.
