@@ -16,4 +16,5 @@ Now the main issue is the DNA side effects that may cause throughout the transfo
 As we know nothing will inject to our genes, but it maybe possible during this process the body and metal behavior affected during the time that we transform ourselves into a man_animal form
 
 Here is the diagram:
-![Uploading 6012796735585374868.jpg…]()
+
+![6012796735585374868](https://github.com/user-attachments/assets/681353fb-b0c5-4fd2-bf86-bc47ea30bce8)
