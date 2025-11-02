@@ -9,7 +9,7 @@ I decided to share them here instead of keeping them in the shadows — so other
 
 ## 📖 What’s Inside
 
-* ✅ **129 Project Ideas**
+* ✅ **130 Project Ideas**
 * ✅ Organized into categories (AI, Robotics, Software, Web, etc.)
 * ✅ Written in a **student-friendly, practical style**
 * ✅ Can inspire **final-year projects, side projects, or startups**
