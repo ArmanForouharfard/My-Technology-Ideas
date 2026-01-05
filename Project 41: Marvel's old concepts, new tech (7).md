@@ -25,4 +25,5 @@ By adding this laser beam to the top of the nanobots and make work as a team, it
 
 7) Vulture's sword wings:
 This ideas is from Spider-Man Web of shadows, in the game Henchmen aka Valture was working for Kingpin and was working green / hubgoblin's Gliders, and other machin Al weapons in the game, when spidey faced Vulture for the first time, he used several basterd sized swords and controlled magnetic energy assembling his new wing by using those swords and a upper shoulder armor, which was suppose to connect them all, there should be a nurolink cheap inside the armor too (similar the Electroencephalography (EEG) helmet I add for my modified octopus arms) to read the user's mind and act like it, 
-The problem is the magnetic energy, how did Henchmen built it? , and how to connect them while using it and not get co
+The problem is the magnetic energy, how did Henchmen built it? , and how to connect them while using it and not get collapse at each other during the asaembling process??, I think add a mini sized jet pack to the back of the armor too,
+because once the swords get occupied, there's no wings to keep the user's flying, and fall immediately,
