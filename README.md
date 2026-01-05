@@ -1,4 +1,4 @@
-# 💡 My 130 Technology Ideas (In Progress)
+# 💡 My 1.. Technology Ideas (In Progress)
 
 This repository is a collection of **130 original technology project ideas** I have developed over time, precisely since i was in highschool back in 2016-2017.
 They reflect my curiosity and passion for **Robotics, Artificial Intelligence, Web Development, and Modern Day Technologies**.
@@ -9,7 +9,7 @@ I decided to share them here instead of keeping them in the shadows — so other
 
 ## 📖 What’s Inside
 
-* ✅ **130 Project Ideas**
+* ✅ **1.. Project Ideas**
 * ✅ Organized into categories (AI, Robotics, Software, Web, etc.)
 * ✅ Written in a **student-friendly, practical style**
 * ✅ Can inspire **final-year projects, side projects, or startups**
