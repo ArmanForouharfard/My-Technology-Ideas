@@ -39,4 +39,6 @@ muscles and bones issues which is possible to make the user's body to fall apart
 
 8) Huger Absorber Bracer:
 I took this idea from Assassin's creed valhalla Down of ragnarok DLC, it's a bracers that can transfer the subject's abilities to the user, we may not have jutnars or muspels in real world anymore, 
-but we can use this bracer to use the subject's DNA codes to us, however,
+but we can use this bracer to use the subject's DNA codes to us, however, it can get out of control like bringing the subject's concensus to ourselves, creating a civil war in our mind and body,
+which can also cost brain injuries and maybe even potentially inducing coma,
+So, in order to avoid that to happen, we require a Computer and an Ai to give us a choice to choose the ability want from the subject's DNA codes, and maybe saving the rest for further examinations and etc... ;
