@@ -1,4 +1,4 @@
-Project 23) The tranformation watches ⌚ (4)
+Project 23) The Transformation Watches ⌚ (4)
 
 1) Omnitrix (2024): 
 You might think that I'm crazy with this childish ideas, but trust me, you'll like it! 
