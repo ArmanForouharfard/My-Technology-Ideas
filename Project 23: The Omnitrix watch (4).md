@@ -1,7 +1,7 @@
-Project 23) The Omnitrix watch⌚ (4)
-(2024)
-You might think that I'm crazy with this childish ideas, but trust me, you'll like it! 
+Project 23) The tranformation watches ⌚ (4)
 
+1) Omnitrix (2024): 
+You might think that I'm crazy with this childish ideas, but trust me, you'll like it! 
 This idea has been found during the time I was working on Animal Expansion Project, 
 it's Design to read DNA codes and combine them with human's DNA, and no we're not talking about the Transforming the the human's DNA permanently, but as a temporary transformation without injecting the intruder DNA to our system;
 This watch allow the user to use a DNA database of different Animals for a short time,
