@@ -1,4 +1,4 @@
-Project 23) The Omnitrix watch⌚ (update 2)
+Project 23) The Omnitrix watch⌚ (4)
 (2024)
 You might think that I'm crazy with this childish ideas, but trust me, you'll like it! 
 
@@ -18,3 +18,14 @@ As we know nothing will inject to our genes, but it maybe possible during this p
 Here is the diagram:
 
 ![6012796735585374868](https://github.com/user-attachments/assets/681353fb-b0c5-4fd2-bf86-bc47ea30bce8)
+
+2) Material Matrix (2025):
+This version of Omnitrix work as the privious version, but instead of Animal's genetic codes we use Materials like metal, stone, crystals, and woods, in order to avoid genetic bank replacements,
+I took a different idea, by using Nanotechnology to replace the material and make them create an Armor on the user's body, this idea is still under my mind's construction but I know it can be possible;
+
+3) Holo Matrix (2025):
+If I still remember Gwen used magic making solid holographic objects in order to defend and attack enemies, I decided to take this idea but the design is not yet complete, must work on these 2;
+
+4) Nano Matrix (2025):
+This is my latest idea, since I used Keven's material absorption as an idea, I began to create an Omnitrix that use programmable nanobots to create Ben's Alien form, no cloud server,
+no animal DNA and no Risk made by Animal Behaviors... For test I'm thinking his first 10 aliens are perfect as a test to begin with;
