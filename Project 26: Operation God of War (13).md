@@ -1,4 +1,4 @@
-Project 26) Operation God of war (13) 
+Project 26) Operation God of War (13) 
 (2024-2025)
 These projects are mystical weapons of God of war video games, I found similarities between their abilities and the modern technology,
 (P.S one of them is already introduced: Forst axe, Operation Frost Zero)
