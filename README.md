@@ -59,6 +59,6 @@ This repo is my way of:
 ## 👨‍🎓 Made By
 
 **Arman Forouharfard**
-23 y/o | Second-year Bachelor’s Software Engineering student | Robotics & AI Enthusiast | Dreaming big, one idea at a time 🌟
+24 y/o | Second-year Bachelor’s Software Engineering student | Robotics & AI Enthusiast | Dreaming big, one idea at a time 🌟
 
 ---
