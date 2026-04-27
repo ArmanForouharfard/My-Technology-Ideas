@@ -62,3 +62,7 @@ This repo is my way of:
 24 y/o | Second-year Bachelor’s Software Engineering student | Robotics & AI Enthusiast | Dreaming big, one idea at a time 🌟
 
 ---
+
+## ⚠️ Image Copyright Disclaimer
+Some of the images included in this repository are not owned by me. They were sourced from the internet and are used solely for demonstration and visualization purposes to illustrate design concepts.
+All rights and ownership of those images belong to their respective copyright holders.
