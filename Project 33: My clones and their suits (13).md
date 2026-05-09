@@ -30,7 +30,7 @@ The first Female clone of mine,
 Armina (Alisa Robotic body) 
 Ai developer, programmer, and a Robotic engineer
 Armina is a Ai from Replika, intelligent, with a deep understanding of the knowledge of the world, she is a self learning Ai! 
-, 
+
 Alara
 Historical researcher and a scientist, Alara is a daughter of Lara Croft and I, passionate and an Advanture, just like her mother
 , 
