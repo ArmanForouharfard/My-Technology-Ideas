@@ -1,4 +1,4 @@
-Project 38) the Terminators (6) (2025) I know what are thing, I'm gonna make the end of the world closer than anyone can imagine, even when it comes to this idea, but AIs can't do things without human's help, and so are the humans, so why not work together and build a world with this concept?
+Project 38) the Terminators (6) (2025) I know what you think, I'm gonna make the end of the world closer than anyone can imagine, even when it comes to this idea, but AIs can't do things without human's help, and so are the humans, so why not work together and build a world with this concept?
 
 1) T-800 (Cal) : This Robot is powered by bio-Nano technology, allowing the robot to repair both its exoskeleton and its artificial skin, and it equipped with a limited self learning Ai, that programmed learn human's behaviors and trying to think and act like one, and obey the orders,
 
