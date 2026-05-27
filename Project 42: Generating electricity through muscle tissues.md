@@ -1,4 +1,4 @@
-Project 42) creating electricity through muscle tissues (2025) 
+Project 42) Generating electricity through muscle tissues (2025) 
 This idea has been inspired by Tekken video games,
 At the beginning of knowing this franchise, we didn't know if it's possible to do such things or not, and left it as a screen effects and fantasy of the character's personality, but in my young ages, 
 I realized that nanotechnology may be able to peovide this idea into reality, it was at beginning of 2025 which I found this design, 
