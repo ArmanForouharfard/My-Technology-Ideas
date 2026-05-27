@@ -1,4 +1,4 @@
-Project 39) Early versions of Tekken Devil forms (11) (2024) I've made these earlier version during the time I designed the Devil and Angel armor, but I didn't mention them because there several details I need to complete them, and here they are:
+Project 39) Early versions of Tekken Devil forms (10) (2024) I've made these earlier version during the time I designed the Devil and Angel armor, but I didn't mention them because there several details I need to complete them, and here they are:
 
 Kazuya's (5)
 
