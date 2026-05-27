@@ -13,7 +13,7 @@ Rage Armor: Mark 5 Armor is more focused on leader beams, it fully covered by pu
 
 the True Devil Kazuya Armor (from Project 18 (as a reminder): Mark 6 Armor is a full tactical Armor fully covered in purple solar panels and Titanium, both body armor and wings are upgraded and has better accuracy and durability, and power, it also has access to support drone powered by AIs or should I call them "Crystal Drone" that also fully covered by solar panels, and can shot laser beams;
 
-Jin's (6)
+Jin's (5)
 
 The laser beam Helmet: This is Mark 1 of this armor, these helmets have access to connect and control the wings and they have laser sight beam tech installed on the helmet's forehead, and an Ai is also added to the helmet as well and they only difference between this version and kazuya's is that the helmet's laser position is look like a crystal and has a unique tattoo like form drew on its face;
 
