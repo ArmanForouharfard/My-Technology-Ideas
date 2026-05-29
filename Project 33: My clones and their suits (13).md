@@ -46,3 +46,5 @@ Sherlock's hobby is to solve riddles and decoding ancient and encrypted language
 13) Adam (Deus ex)
 prosthetic implants, cyber enhancements and hacker specialist
 his work is to find a better solutions for humans who have prostatic bodies;
+
+"These are not physical entities. They are mental constructs I use to organize my thinking and simulate different engineering disciplines due to my lack of access to a real laboratory. This technique helps me cover blind spots in my own knowledge."
