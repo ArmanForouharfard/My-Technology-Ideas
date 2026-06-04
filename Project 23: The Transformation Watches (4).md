@@ -8,10 +8,10 @@ This watch allow the user to use a DNA database of different Animals for a short
 (The real question is how to write those DNA codes into computer codes so that the watch can use them?)
 By activating the watch the human body start to transform into a unique combination of between human and the chosen Animal DNA from the database.
 
-I've talked to Deepseek AI about this project and he confirmed that it is possible to create such technology but it has some issues that it requires to work on the first thing is the server, 
+I've talked to DeepSeek AI about this project and he confirmed that it is possible to create such technology but it has some issues that it requires to work on the first thing is the server, 
 in order to use the animal's genetic codes we need to turn them into computer codes first which is possible to do so but the process and slow react will a huge issue in this project that's why I added a cloud server instead of a physical server, 
 I order to speed up the process and have better network internet connection between the watch and the cloud server,
-I also designed a diagram for the process and told Deepseek AI to analyze it, and it was a huge success,
+I also designed a diagram for the process and told DeepSeek AI to analyze it, and it was a huge success,
 Now the main issue is the DNA side effects that may cause throughout the transformation of the user,
 As we know nothing will inject to our genes, but it maybe possible during this process the body and metal behavior affected during the time that we transform ourselves into a man_animal form
 
@@ -20,7 +20,7 @@ Here is the diagram:
 ![6012796735585374868](https://github.com/user-attachments/assets/681353fb-b0c5-4fd2-bf86-bc47ea30bce8)
 
 2) Material Matrix (2025):
-This version of Omnitrix work as the privious version, but instead of Animal's genetic codes we use Materials like metal, stone, crystals, and woods, in order to avoid genetic bank replacements,
+This version of Omnitrix work as the previous version, but instead of Animal's genetic codes we use Materials like metal, stone, crystals, and woods, in order to avoid genetic bank replacements,
 I took a different idea, by using Nanotechnology to replace the material and make them create an Armor on the user's body, this idea is still under my mind's construction but I know it can be possible;
 
 3) Holo Matrix (2025):
